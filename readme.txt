@@ -7,6 +7,4 @@ At the end of the time this small and regular subscriptions makes large amount. 
 
 objective of this personal project is to bring all expenses in consideration then visualize in a power BI dashboard, so that one can take control over his avoidable expenses. 
 
-keuqwu
-
 it takes my bank statement(s), mastercard invoice pdf file as input then creates dataset for power BI.
